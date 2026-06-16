@@ -14,5 +14,5 @@ Python · Pandas · NumPy · HTML · CSS · Canva
 SQL · JavaScript · Git best practices
 
 ## Contact
-sleemsayed65@gmail.com
-+20-109-731-2453 (whatsapp)
+- Email: sleemsayed65@gmail.com
+- Phone Number: +20-109-731-2453 _whatsapp_
