@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, This is Mariam!
+STEM student | Data Science & AI enthusiast | Web developer
+---
 
-<!--
-**Mariam-Sayed-Sleem/Mariam-Sayed-Sleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Python · Pandas · NumPy · HTML · CSS · Canva
 
-Here are some ideas to get you started:
+## Projects
+- **KBookwarK**: Visual bookmark manager with Swiper.js
+- **My Profile**: Personal website built with HTML & CSS
+- **Zombie Text Game**: Python narrative survival game
+- **Climate Change Awareness**: A website about climate change awareness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+SQL · JavaScript · Git best practices
+
+## Contact
+sleemsayed65@gmail.com
++20-109-731-2453 (whatsapp)
