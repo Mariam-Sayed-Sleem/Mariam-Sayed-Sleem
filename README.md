@@ -1,6 +1,5 @@
 # Hello, This is Mariam!
-STEM student | Data Science & AI enthusiast | Web developer
----
+> STEM student | Data Science & AI enthusiast | Web developer
 
 ## Skills
 Python · Pandas · NumPy · HTML · CSS · Canva
