@@ -13,6 +13,10 @@ Python · Pandas · NumPy · HTML · CSS · Canva
 ## Currently Learning
 SQL · JavaScript · Git best practices
 
+## Languages
+- Arabic (Native)
+- English (B2)
+- German (A1)
+
 ## Contact
 - Email: sleemsayed65@gmail.com
-- Phone Number: +20-109-731-2453 _whatsapp_
